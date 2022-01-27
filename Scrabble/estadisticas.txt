@@ -1,0 +1,5 @@
+|Nombre|	|Turnos|	|Puntos|	|Dificultad|	|Fecha|
+Arturo		2		-20		Solo		23/01/2022 11:43:52
+íker		3		19		6: 40 puntos	23/01/2022 13:44:00
+Usuario		10		4		3: 91 puntos	23/01/2022 22:45:59
+User		15		117		6: 180 puntos	23/01/2022 22:46:42
